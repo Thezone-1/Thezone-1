@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Thezone-1/Thezone-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,35 +13,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Somoprovo Bhattacharjee
+<h1 align="center">Hi 👋, I'm Somoprovo Bhattacharjee</h1>
 
-🚀 Final-year Information Technology undergrad at **Jadavpur University**  
-💻 Software Engineer | Cloud & Distributed Systems Enthusiast  
-🌐 Building scalable systems & intuitive user experiences, one commit at a time
+<p align="center">
+  <b>Software Engineer · Cloud & Distributed Systems Enthusiast · Tech Community Builder</b>
+</p>
+
+<p align="center">
+  <a href="https://somoprovobhattacharjee.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/somoprovo-bhattacharjee/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:somoprovobhattacharjee@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### ⚡ What I Do
+### 🚀 About Me
 
-- 🔧 **Backend & Cloud Development**: Kafka, Spark, AWS, Azure, Golang, FastAPI
-- 🧠 **AI & Research Projects**: DDoS detection using Transformers, real-time 3D location tracking
-- 🌱 **Open Source**: Co-founder of [**Devstream**](https://github.com/AdityaMayukhSom/ruskin), creator of *Ruskin* – a distributed messaging system
-- 🎮 **UI/UX**: React, Next.js, Dockerized frontends for 10K+ user platforms
-
----
-
-### 🔭 Currently Working On
-
-- ⚙️ **ETL Pipelines & Streaming** at OpenLM using Apache Spark & Kafka
-- 🧠 **Edge-based AI for DDoS Prediction** using SDN and Transformer models
-- ☁️ Scalable infrastructure for cloud-native apps on AWS & Azure
+- 🎓 Final-year IT undergrad at **Jadavpur University**
+- 🔧 Passionate about building **resilient cloud systems**, **real-time applications**, and **intelligent infrastructure**
+- 🧠 Interested in **AI/ML**, **edge computing**, and **developer tooling**
+- 💬 Active in the open source and student tech community
 
 ---
 
 ### 🛠 Tech Stack
 
-```yaml
-Languages: C++, GoLang, Scala, Python, JavaScript, TypeScript
-Frameworks: React, Next.js, Kafka, Spark, Django, FastAPI, PyTorch
-Tools: Docker, Kubernetes, GitHub Actions, AWS, Azure, Linux
-Databases: PostgreSQL, MySQL, DynamoDB, ChromaDB, Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,react,nextjs,docker,kubernetes,aws,azure,fastapi,django,pytorch,tensorflow,postgres,mysql,mongodb,redis,linux,git" />
+</p>
+
+---
+
+### 🌟 Highlights
+
+- 🏆 Finalist at India's largest national hackathon (90,000+ participants)
+- 🎓 Awarded national science scholarship (Top 0.15% in West Bengal)
+- 👥 Leading one of Eastern India’s top ACM student chapters
+- 🎨 Former design lead for tech club events with 2,000+ participants
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thezone-1&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thezone-1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+> “I build with purpose — scalable systems, clean code, and a passion for engineering that lasts.”
+
+---
+
