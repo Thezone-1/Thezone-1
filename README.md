@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 - 🎓 Final-year IT undergrad at **Jadavpur University**
 - 💼 Currently working as an **SDE**, focused on building scalable and resilient backend systems
-- 🧠 Passionate about **cloud infrastructure**, **streaming systems**, and **developer tools**
 - 💬 Strong believer in clean code, continuous learning, and thoughtful engineering
 
 ---
@@ -45,11 +44,11 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,spark" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,azure,fastapi" />
   <br />
-  <img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
 </p>
 
 ---
