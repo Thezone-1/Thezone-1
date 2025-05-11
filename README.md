@@ -36,35 +36,20 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 - 🎓 Final-year IT undergrad at **Jadavpur University**
-- 🔧 Passionate about building **resilient cloud systems**, **real-time applications**, and **intelligent infrastructure**
-- 🧠 Interested in **AI/ML**, **edge computing**, and **developer tooling**
-- 💬 Active in the open source and student tech community
+- 💼 Currently working as an **SDE**, focused on building scalable and resilient backend systems
+- 🧠 Passionate about **cloud infrastructure**, **streaming systems**, and **developer tools**
+- 💬 Strong believer in clean code, continuous learning, and thoughtful engineering
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,react,nextjs,docker,kubernetes,aws,azure,fastapi,django,pytorch,tensorflow,postgres,mysql,mongodb,redis,linux,git" />
-</p>
-
----
-
-### 🌟 Highlights
-
-- 🏆 Finalist at India's largest national hackathon (90,000+ participants)
-- 🎓 Awarded national science scholarship (Top 0.15% in West Bengal)
-- 👥 Leading one of Eastern India’s top ACM student chapters
-- 🎨 Former design lead for tech club events with 2,000+ participants
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thezone-1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thezone-1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,azure" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
 </p>
 
 ---
@@ -72,4 +57,3 @@ Here are some ideas to get you started:
 > “I build with purpose — scalable systems, clean code, and a passion for engineering that lasts.”
 
 ---
-
