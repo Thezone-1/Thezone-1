@@ -4,20 +4,6 @@
   <b>Software Engineer · Cloud & Distributed Systems Enthusiast · Tech Community Builder</b>
 </p>
 
-<p align="center">
-  <a href="https://somoprovobhattacharjee.in" target="_blank" title="Website">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="28px" color= "white" style="margin: 0 12px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/somoprovo-bhattacharjee/" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" style="margin: 0 12px;" />
-  </a>
-  <a href="mailto:somoprovobhattacharjee@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28px" style="margin: 0 12px;" />
-  </a>
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🎓 Final-year IT undergrad at **Jadavpur University**
@@ -29,7 +15,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,spark,react,nextjs,nextjs,docker,kubernetes,aws,azure,fastapi,django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,react,nextjs,nextjs,kafka,docker,kubernetes,aws,azure,fastapi,django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
 <!--   <br />
   <img src="https://skillicons.dev/icons?i=nextjs,docker,kubernetes,aws,azure,fastapi,django,tensorflow" />
   <br />
