@@ -1,18 +1,3 @@
-<!--
-**Thezone-1/Thezone-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Somoprovo Bhattacharjee</h1>
 
 <p align="center">
@@ -20,14 +5,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://somoprovobhattacharjee.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Website" />
+  <a href="https://somoprovobhattacharjee.in" target="_blank" title="Website">
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="28px" color= "white" style="margin: 0 12px;" />
   </a>
-  <a href="https://www.linkedin.com/in/somoprovo-bhattacharjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/somoprovo-bhattacharjee/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" style="margin: 0 12px;" />
   </a>
-  <a href="mailto:somoprovobhattacharjee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:somoprovobhattacharjee@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28px" style="margin: 0 12px;" />
   </a>
 </p>
 
@@ -44,11 +29,11 @@ Here are some ideas to get you started:
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,spark" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,scala,js,ts,spark,react,nextjs,nextjs,docker,kubernetes,aws,azure,fastapi,django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
+<!--   <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,docker,kubernetes,aws,azure,fastapi,django,tensorflow" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes,aws,azure,fastapi" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=django,tensorflow,pytorch,postgres,mysql,mongodb,redis,linux,git" />
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql,mongodb,redis,linux,git" /> -->
 </p>
 
 ---
