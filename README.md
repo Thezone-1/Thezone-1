@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year IT undergrad at **Jadavpur University**
+- 🎓 IT Grad from **Jadavpur University**
 - 💼 Currently working as an **SDE**, focused on building scalable and resilient backend systems
 - 💬 Strong believer in clean code, continuous learning, and thoughtful engineering
 
